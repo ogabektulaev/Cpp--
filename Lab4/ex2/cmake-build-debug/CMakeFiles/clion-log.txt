@@ -1,0 +1,1 @@
+CMake executable not found: C:\Games\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe Configure Disable profile
